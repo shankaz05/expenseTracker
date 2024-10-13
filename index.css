@@ -1,0 +1,80 @@
+body{
+  background-color: #02182B;
+  text-align: center;
+}
+
+.expense-box{
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top:100px ;
+
+}
+
+h2{
+  font-size: 4rem;
+  color: #0197F6;
+}
+
+button{
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+  background-color: #448FA3;
+  transition: background-color 0.5 ease;
+}
+
+input[type='text']{
+  font-size: 1.6rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+}
+
+input[type='number']{
+  font-size: 1.6rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+}
+
+h3{
+  font-size: 1.6rem;
+  color: #D7263D;
+}
+
+.history{
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top:10px ;
+  background-color: #68C5DB;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 15px;
+  background-color: #68c6dbbd;
+  margin-bottom: 5px;
+  border:1px solid  #02182bb7;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+  
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #02182B;
+  font-size: 1.5rem;
+}
+
